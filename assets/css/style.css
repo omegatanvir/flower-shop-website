@@ -164,3 +164,27 @@ p{
     width: 242px;
     height: 296px;
 }
+
+/* ====================== */
+/* -------- Latest Deal Section Style --------*/
+/* ====================== */
+.latest-deal-section{
+    text-align: center;
+    background-image: url('../img/letest-deal-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    margin-bottom: 80px;
+}
+
+.latest-deal-section p{
+    margin-bottom: 30px;
+}
+
+.latest-deal-section input[type="email"]{
+    border-radius: 8px;
+    background: #FFF;
+    padding: 19px 400px 19px 19px;
+    margin-right: 15px;
+    border: 0;
+}
