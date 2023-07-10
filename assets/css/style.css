@@ -124,3 +124,29 @@ p{
     margin-bottom: 80px;
 }
 
+/* ====================== */
+/* -------- Hot Deal Section Style --------*/
+/* ====================== */
+.hot-deal{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 80px;
+}
+.hot-deal-section{
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.sell-up{
+    width: 600px;
+}
+.sell-up p{
+    margin: 20px 0px;
+}
+
+.sell-up span{
+    color: #E55473;
+}
