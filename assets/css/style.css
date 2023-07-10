@@ -74,10 +74,10 @@ p{
 /* ====================== */
 /* -------- Featured Section Style --------*/
 /* ====================== */
-.featured-title-content h2{
+.title-content h2{
     margin: 80px 0px 12px 0px;
 }
-.featured-title-content p{
+.title-content p{
     text-align: center;
     width: 600px;
     margin: auto;
@@ -149,4 +149,18 @@ p{
 
 .sell-up span{
     color: #E55473;
+}
+/* ====================== */
+/* -------- Instagram Section Style --------*/
+/* ====================== */
+.instagram-section{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    margin: 80px 0px;
+}
+
+.ins-image img{
+    width: 242px;
+    height: 296px;
 }
