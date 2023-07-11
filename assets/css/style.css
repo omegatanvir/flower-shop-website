@@ -188,3 +188,33 @@ p{
     margin-right: 15px;
     border: 0;
 }
+
+/* ====================== */
+/* -------- Footer Section Style --------*/
+/* ====================== */
+.footer{
+    background: #111010;
+}
+
+.footer-section{
+    text-align: center;
+    padding: 100px;
+}
+
+.footer-section h2{
+    color: #E55473;
+}
+
+.footer-section p{
+    width: 500px;
+    color: rgba(255, 255, 255, 0.90);
+    margin: 14px auto 25px auto;
+    line-height: 20px;
+}
+.footer-section h4{
+    color: rgba(255, 255, 255, 0.40);
+}
+.footer-section span{
+    color: #fff;
+}
+
